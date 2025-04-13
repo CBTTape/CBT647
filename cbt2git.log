@@ -1,0 +1,25 @@
+2025-04-13 21:31:01.722208 - Received CBT.V508.FILE647.PDS from FILE647.XMI 
+2025-04-13 21:31:01.723629 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:31:01.723710 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/$$$DOC
+2025-04-13 21:31:01.723814 - Found $$$DOC1.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/$$$DOC1
+2025-04-13 21:31:01.723877 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/$$NOTE1
+2025-04-13 21:31:01.723937 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/$$NOTE2
+2025-04-13 21:31:01.723997 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/$$NOTE3
+2025-04-13 21:31:01.724061 - Found @FILE647.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/@FILE647
+2025-04-13 21:31:01.724125 - Found ASSERT.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/ASSERT
+2025-04-13 21:31:01.724241 - Found AUX2SVG.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/AUX2SVG
+2025-04-13 21:31:01.724416 - Found CARDPNG.png (image/png) in CBT.V508.FILE647.PDS, moved to PDS/CARDPNG
+2025-04-13 21:31:01.724491 - Found DEVISIO.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/DEVISIO
+2025-04-13 21:31:01.724563 - Found GPL.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/GPL
+2025-04-13 21:31:01.724627 - Found IDLFILE.txt (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/IDLFILE
+2025-04-13 21:31:01.724724 - Found IDL2WSDL.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/IDL2WSDL
+2025-04-13 21:31:01.724791 - Found IO.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/IO
+2025-04-13 21:31:01.724912 - Found JCL2XML.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/JCL2XML
+2025-04-13 21:31:01.724983 - Found PAPERPNG.png (image/png) in CBT.V508.FILE647.PDS, moved to PDS/PAPERPNG
+2025-04-13 21:31:01.725089 - Found PARSEXML.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/PARSEXML
+2025-04-13 21:31:01.725157 - Found PRETTY.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/PRETTY
+2025-04-13 21:31:01.725229 - Found REXXPP.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/REXXPP
+2025-04-13 21:31:01.725316 - Found SOAP.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/SOAP
+2025-04-13 21:31:01.725397 - Found TESTMOD.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/TESTMOD
+2025-04-13 21:31:01.725466 - Found TESTNEW.rexx (text/plain) in CBT.V508.FILE647.PDS, moved to PDS/TESTNEW
+2025-04-13 21:31:01.725539 - Found TESTXML.xml (text/xml) in CBT.V508.FILE647.PDS, moved to PDS/TESTXML
